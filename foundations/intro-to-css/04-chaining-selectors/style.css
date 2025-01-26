@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+body {
+    text-align: center;
+    background-color: white;
+
+}
+.avatar.proportioned {
+    width: 100px;
+    height: 100px;
+
+}
+
+.avatar.distorted {
+    width: 100px;
+    height: 150px;
+
+}

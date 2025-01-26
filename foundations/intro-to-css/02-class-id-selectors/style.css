@@ -1,0 +1,18 @@
+.red{
+    background-color: red;
+    font-size: large;
+}
+
+.red.big{
+    font-size: xx-large;
+}
+
+#blue{
+    font-size:xxx-large;
+    color: blue;
+}
+#green{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size:x-large;
+}

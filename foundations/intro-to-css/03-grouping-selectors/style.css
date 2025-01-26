@@ -1,0 +1,16 @@
+.black,
+.yellow {
+    font-size: xx-large;
+    border-radius: 21px;
+    shape-outside: -ms-radial-gradient();
+}
+.black{
+    background-color: black;
+    color: white;
+
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+
+}

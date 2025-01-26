@@ -1,0 +1,12 @@
+
+.container p{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+p{
+    color: black;
+}
